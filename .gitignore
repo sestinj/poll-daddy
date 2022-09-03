@@ -1,0 +1,14 @@
+.env
+bin
+certifi-2020.4.5.1.dist-info/
+certifi/
+chardet-3.0.4.dist-info/
+chardet/
+idna-2.9.dist-info/
+idna/
+requests-2.23.0.dist-info/
+requests/
+urllib3-1.25.9.dist-info/
+urllib3/
+v.zip
+.DS_Store
